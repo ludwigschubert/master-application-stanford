@@ -3,8 +3,6 @@
 “Dog!” exclaimed the 6 year old boy at the whiteboard proudly, while carefully drawing the Chinese character “犬”. There was a round of applause in the psychiatrist’s child practice, as the learning disabled child completed the exercise without a mistake. Having developed the serious game he used for preparation, I was immensely proud. 
 While I realized at that point that I had created a fun way for children to study basic phoneme–grapheme associations, I was not aware of the entire discipline behind designing software for humans. I have since completed my computer science bachelor, soaking up every class on human computer interaction, information visualization and user interfaces my study programs offer in the process. Thus I now know many of the theories, rules, and models created to formalize this process. But seeing a design’s success, seeing it help users accomplish what they could not accomplish before—that is still my biggest motivation.
 
-Once I could enroll full time at TUM, I was drawn to courses such as Software Engineering, 2D User Interface Design, and a Mobile Applications Programming Lab in which I collaborated on the above-mentioned serious game “weMakeWords”. The resulting game was presented at our project partner’s child psychology practice, multiple fairs, and finally published in a paper, which I presented during OOPSLA at SPLASH in Portland. [Demmel2011]
-
 ## Past Research & Coursework
 
 At TUM, I was drawn to courses such as Software Engineering, 2D User Interface Design, and a Mobile Applications Programming Lab in which I collaborated on the above-mentioned serious game “weMakeWords”. The resulting game was presented at our project partner’s child psychology practice, multiple fairs, and finally published in a paper, which I presented during OOPSLA at SPLASH in Portland. [Demmel2011]
@@ -26,7 +24,7 @@ During my exchange semester I got to know Stanford both as an inspiring communit
 
 I like solving challenging problems; the kind of problems that have not been solved before, that might not even appear to be problems at first sight. The kind of problems one learns to solve at research universities. I get excited thinking about the real-life problems I will be able to tackle with these skills; be it at my next startup or in industrial R&D. 
 
-I have the work experience, the motivation, and the entrepreneurial spirit; but I’m lacking the graduate level computer science expertise. I believe Stanford’s Computer Science graduate program would be the best place for me to gain that
+I have the work experience, the motivation, and the entrepreneurial spirit; but I’m lacking the graduate level computer science expertise. I believe Stanford’s Computer Science graduate program would be the best place for me to gain that.
 
 # References
 
